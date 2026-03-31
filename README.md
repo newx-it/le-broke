@@ -5,7 +5,7 @@ mx and choc v1 support
 
 ez to assemble, reversible pcb, face down n!n/pro micro (zmk only!!), requires diodes and 2 6x6 buttons.
 
-WATCH YOUR DIODE ORIENTATION!!! IT MATTERS!
+WATCH YOUR DIODE ORIENTATION! THIS IS NOT COMPATIBLE WITH OTHER CHIFF CASES/PLATES ETC
 
 ![pretty image of le broke](https://github.com/turnisaa-sgtworms/le-broke/blob/main/images/case%20top.jpg)
 ![second pretty image of le broke](https://github.com/turnisaa-sgtworms/le-broke/blob/main/images/PXL_20250616_201934272.jpg?raw=true)
