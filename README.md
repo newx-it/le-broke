@@ -5,7 +5,7 @@ mx and choc v1 support
 
 ez to assemble, reversible pcb, **face down** n!n/pro micro (zmk only!!), requires diodes and 2 6x6mm buttons.
 
-zmk module is available here: [https://github.com/newx-it/lebroke-zmk-config](https://github.com/newx-it/lebroke-zmk-config)
+zmk module is available here: [https://github.com/newx-it/zmk-keyboard-lebroke](https://github.com/newx-it/zmk-keyboard-lebroke)
 
 WATCH YOUR DIODE ORIENTATION! THIS IS NOT COMPATIBLE WITH OTHER CHIFF CASES/PLATES ETC
 
