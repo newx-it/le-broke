@@ -1,9 +1,11 @@
 silly wacky split-but-not-split adaptation of le chiffre.
 
 mx and choc v1 support
-2u or 2x 1u bottom row support
+1.25u + 2u or 1.25u + 1u + 1u bottom row support
 
-ez to assemble, reversible pcb, face down n!n/pro micro (zmk only!!), requires diodes and 2 6x6 buttons.
+ez to assemble, reversible pcb, **face down** n!n/pro micro (zmk only!!), requires diodes and 2 6x6mm buttons.
+
+zmk module is available here: [https://github.com/newx-it/lebroke-zmk-config](https://github.com/newx-it/lebroke-zmk-config)
 
 WATCH YOUR DIODE ORIENTATION! THIS IS NOT COMPATIBLE WITH OTHER CHIFF CASES/PLATES ETC
 
