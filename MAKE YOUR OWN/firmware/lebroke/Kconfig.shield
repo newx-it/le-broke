@@ -1,2 +1,0 @@
-config SHIELD_LEBROKE
-	def_bool $(shields_list_contains,LEBROKE)
